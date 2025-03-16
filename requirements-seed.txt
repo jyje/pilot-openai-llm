@@ -1,0 +1,6 @@
+# Dev
+python-decouple
+
+# Core
+langchain-community
+langchain-openai
