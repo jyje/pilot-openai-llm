@@ -42,7 +42,7 @@ mypy-extensions==1.0.0
 nest-asyncio==1.6.0
 numpy==2.2.3
 openai==1.66.3
-orjson==3.11.5
+orjson==3.11.6
 packaging==24.2
 parso==0.8.4
 pexpect==4.9.0
